@@ -1,5 +1,6 @@
 // Rock, Paper, Scissors Game
 
+// Need to add scoring and score tracking.
 // var yourScore = 0;
 // var compScore = 0;
 // var winScore = 5;
